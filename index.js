@@ -10,4 +10,3 @@ Isaac.Tools = _tools;
 Isaac.Color = _color;
 
 export default Isaac;
-
