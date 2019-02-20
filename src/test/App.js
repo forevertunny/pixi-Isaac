@@ -1,5 +1,5 @@
 import * as PIXI from 'pixi.js'
-import Isaac from './Isaac';
+import Isaac from '../Isaac';
 // import bunnyUrl from '../assets/bunny.png'
 
 export default class
