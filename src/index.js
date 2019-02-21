@@ -1,8 +1,8 @@
 //module.exports = require('./src/Isaac/index');
 
-import * as _tools from "./src/Tools/index";
-import * as _pixiui from "./src/PIXIUI/index";
-import * as _color from "./src/Color/index";
+import * as _tools from "./Tools";
+import * as _pixiui from "./PIXIUI";
+import * as _color from "./Color";
 
 var Isaac = {};
 Isaac.UI = _pixiui;
